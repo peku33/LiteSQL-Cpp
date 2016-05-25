@@ -1,0 +1,4 @@
+<map id="litesql::Persistent" name="litesql::Persistent">
+<area shape="rect" id="node2" href="$classlitesql_1_1Database.html" title="A base class of databases. " alt="" coords="6,95,135,121"/>
+<area shape="rect" id="node3" href="$classlitesql_1_1Backend.html" title="An abstract base class for interfacing with relational databases. " alt="" coords="9,5,132,32"/>
+</map>

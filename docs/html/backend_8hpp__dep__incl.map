@@ -1,0 +1,8 @@
+<map id="backend.hpp" name="backend.hpp">
+<area shape="rect" id="node2" href="$cursor_8hpp.html" title="Contains class Cursor. " alt="" coords="14,80,103,107"/>
+<area shape="rect" id="node4" href="$database_8hpp.html" title="Database&#45;class. " alt="" coords="94,155,205,181"/>
+<area shape="rect" id="node3" href="$litesql_8hpp.html" title="include this from your project " alt="" coords="185,453,271,480"/>
+<area shape="rect" id="node7" href="$persistent_8hpp.html" title="Persistent. " alt="" coords="97,379,212,405"/>
+<area shape="rect" id="node5" href="$datasource_8hpp.html" title="selectObjectQuery&lt;T&gt; and DataSource&lt;T&gt; " alt="" coords="144,229,267,256"/>
+<area shape="rect" id="node6" href="$operations_8hpp.html" title="select&lt;T&gt;, intersect&lt;T&gt;, union_&lt;T&gt;, except&lt;T&gt; " alt="" coords="145,304,263,331"/>
+</map>

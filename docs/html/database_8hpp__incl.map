@@ -1,0 +1,11 @@
+<map id="database.hpp" name="database.hpp">
+<area shape="rect" id="node4" href="$types_8hpp.html" title="contains class Record and typedef Records " alt="" coords="517,229,643,256"/>
+<area shape="rect" id="node14" href="$expr_8hpp.html" title="Contains Expr&#45;class hierarchy and operator overloadings for them. " alt="" coords="183,304,302,331"/>
+<area shape="rect" id="node18" href="$backend_8hpp.html" title="Classes Backend, Backend::Cursor and Backend::Result. " alt="" coords="291,155,437,181"/>
+<area shape="rect" id="node20" href="$cursor_8hpp.html" title="Contains class Cursor. " alt="" coords="512,80,643,107"/>
+<area shape="rect" id="node6" href="$utils_8hpp.html" title="includes string.hpp and split.hpp " alt="" coords="625,379,743,405"/>
+<area shape="rect" id="node11" href="$except_8hpp.html" title="contains litesql&#39;s exception classes " alt="" coords="513,304,647,331"/>
+<area shape="rect" id="node8" href="$string_8hpp.html" title="helpful string utils " alt="" coords="621,453,747,480"/>
+<area shape="rect" id="node10" href="$split_8hpp.html" title="contains class Split " alt="" coords="772,453,889,480"/>
+<area shape="rect" id="node16" href="$field_8hpp.html" title="contains FieldType&#45; and Field&#45;classes " alt="" coords="184,379,301,405"/>
+</map>

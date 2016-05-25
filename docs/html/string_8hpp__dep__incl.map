@@ -1,0 +1,17 @@
+<map id="string.hpp" name="string.hpp">
+<area shape="rect" id="node2" href="$field_8hpp.html" title="contains FieldType&#45; and Field&#45;classes " alt="" coords="5,304,81,331"/>
+<area shape="rect" id="node12" href="$utils_8hpp.html" title="includes string.hpp and split.hpp " alt="" coords="323,80,399,107"/>
+<area shape="rect" id="node3" href="$datetime_8hpp.html" title="constains Date, Time and DateTime &#45; classes " alt="" coords="5,528,113,555"/>
+<area shape="rect" id="node5" href="$expr_8hpp.html" title="Contains Expr&#45;class hierarchy and operator overloadings for them. " alt="" coords="322,379,399,405"/>
+<area shape="rect" id="node4" href="$litesql_8hpp.html" title="include this from your project " alt="" coords="461,752,548,779"/>
+<area shape="rect" id="node6" href="$database_8hpp.html" title="Database&#45;class. " alt="" coords="603,453,713,480"/>
+<area shape="rect" id="node7" href="$datasource_8hpp.html" title="selectObjectQuery&lt;T&gt; and DataSource&lt;T&gt; " alt="" coords="346,528,469,555"/>
+<area shape="rect" id="node9" href="$persistent_8hpp.html" title="Persistent. " alt="" coords="447,677,562,704"/>
+<area shape="rect" id="node10" href="$selectquery_8hpp.html" title="contains SelectQuery&#45;class. " alt="" coords="201,453,323,480"/>
+<area shape="rect" id="node11" href="$updatequery_8hpp.html" title="contains UpdateQuery&#45;class. " alt="" coords="449,453,579,480"/>
+<area shape="rect" id="node8" href="$operations_8hpp.html" title="select&lt;T&gt;, intersect&lt;T&gt;, union_&lt;T&gt;, except&lt;T&gt; " alt="" coords="397,603,516,629"/>
+<area shape="rect" id="node13" href="$types_8hpp.html" title="contains class Record and typedef Records " alt="" coords="641,229,726,256"/>
+<area shape="rect" id="node16" href="$except_8hpp.html" title="contains litesql&#39;s exception classes " alt="" coords="637,155,730,181"/>
+<area shape="rect" id="node14" href="$cursor_8hpp.html" title="Contains class Cursor. " alt="" coords="707,379,796,405"/>
+<area shape="rect" id="node15" href="$backend_8hpp.html" title="Classes Backend, Backend::Cursor and Backend::Result. " alt="" coords="631,304,735,331"/>
+</map>

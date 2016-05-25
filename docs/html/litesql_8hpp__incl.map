@@ -1,0 +1,18 @@
+<map id="litesql.hpp" name="litesql.hpp">
+<area shape="rect" id="node2" href="$types_8hpp.html" title="contains class Record and typedef Records " alt="" coords="287,528,414,555"/>
+<area shape="rect" id="node10" href="$except_8hpp.html" title="contains litesql&#39;s exception classes " alt="" coords="195,603,330,629"/>
+<area shape="rect" id="node13" href="$datetime_8hpp.html" title="constains Date, Time and DateTime &#45; classes " alt="" coords="1223,80,1372,107"/>
+<area shape="rect" id="node18" href="$cursor_8hpp.html" title="Contains class Cursor. " alt="" coords="264,379,395,405"/>
+<area shape="rect" id="node22" href="$database_8hpp.html" title="Database&#45;class. " alt="" coords="494,304,645,331"/>
+<area shape="rect" id="node24" href="$expr_8hpp.html" title="Contains Expr&#45;class hierarchy and operator overloadings for them. " alt="" coords="826,379,945,405"/>
+<area shape="rect" id="node25" href="$selectquery_8hpp.html" title="contains SelectQuery&#45;class. " alt="" coords="804,304,967,331"/>
+<area shape="rect" id="node26" href="$datasource_8hpp.html" title="selectObjectQuery&lt;T&gt; and DataSource&lt;T&gt; " alt="" coords="804,229,967,256"/>
+<area shape="rect" id="node27" href="$persistent_8hpp.html" title="Persistent. " alt="" coords="476,80,631,107"/>
+<area shape="rect" id="node5" href="$utils_8hpp.html" title="includes string.hpp and split.hpp " alt="" coords="436,677,553,704"/>
+<area shape="rect" id="node7" href="$string_8hpp.html" title="helpful string utils " alt="" coords="930,752,1057,779"/>
+<area shape="rect" id="node9" href="$split_8hpp.html" title="contains class Split " alt="" coords="357,752,475,779"/>
+<area shape="rect" id="node14" href="$field_8hpp.html" title="contains FieldType&#45; and Field&#45;classes " alt="" coords="895,453,971,480"/>
+<area shape="rect" id="node20" href="$backend_8hpp.html" title="Classes Backend, Backend::Cursor and Backend::Result. " alt="" coords="386,453,531,480"/>
+<area shape="rect" id="node30" href="$relation_8hpp.html" title="See Using Relations. " alt="" coords="144,752,283,779"/>
+<area shape="rect" id="node31" href="$operations_8hpp.html" title="select&lt;T&gt;, intersect&lt;T&gt;, union_&lt;T&gt;, except&lt;T&gt; " alt="" coords="805,155,963,181"/>
+</map>
